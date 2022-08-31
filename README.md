@@ -1,1 +1,5 @@
-# face_detection
+# Projeto Face Detection Mini-System
+
+## Descrição Inicial
+
+
